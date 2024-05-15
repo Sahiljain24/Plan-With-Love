@@ -46,4 +46,4 @@ Make your changes.
 Create a pull request.
 Credits:
 
-This project was created by [Your Name].
+This project was created by Sahil Jain.
